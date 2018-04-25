@@ -73,7 +73,7 @@
             <configuration>
                 <server>tomcat</server>
             <url>http://localhost:2003/manager/text</url>
-                <path>/dev/clinical_trials_service</path>
+                <path>/dev/irb_approval_request</path>
                 <port>9091</port>
                 <update>true</update>
                 <username>jenkins</username>
